@@ -1,6 +1,6 @@
 {
-  "name": "taro-popove",
-  "version": "1.0.1",
+  "name": "taro-popover",
+  "version": "0.0.1",
   "private": false,
   "description": "Taro框架下popover 弹窗",
   "main": "dist/index.js",
