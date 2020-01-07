@@ -1,6 +1,6 @@
 
 
-> # taro-popove
+> # taro-popover
 >
 > 项目地址: [https://github.com/w86wh2/taro-popover](https://github.com/w86wh2/taro-popover)
 
@@ -10,7 +10,7 @@
 - **首先用npm安装**
 
   ```bash
-  npm install --save taro-popove
+  npm install --save taro-popover
   ```
 
 
